@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Servers>
+  <Server>
+    <SqlConfig>
+      <Cadena>Data Source=SBDATOS;Initial Catalog=rqs_phone;user id = sa; password =..andromeda4321;Persist Security Info=True</Cadena>
+    </SqlConfig>
+
+    <Configuracion>
+      <Idioma>EN</Idioma>
+    </Configuracion>
+  </Server>
+</Servers>

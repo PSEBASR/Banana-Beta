@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+<IdiomasP>
+    <Idiomas>
+        <Idioma>
+            <Region>ES</Region>
+            <Var>Home.Title</Var>
+            <Frase>Menu Principal</Frase>
+        </Idioma> 
+      
+        
+        
+        <Idioma>
+            <Region>EN</Region>
+            <Var>Home.Title</Var>
+            <Frase>Main Menu</Frase>
+        </Idioma>
+    </Idiomas>
+</IdiomasP>
