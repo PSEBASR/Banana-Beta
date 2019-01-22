@@ -193,6 +193,7 @@
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Funciones\Funciones.cs" />
+    <Compile Include="Funciones\Metodos.cs" />
     <Compile Include="General\SqlServer\SQL.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
